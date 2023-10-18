@@ -1,1 +1,0 @@
-Openinglines1 = ["I've made some changes to the plot that this was based on","in the interest of time","If anything seems weird or contrived just go with it","It's probably easier than explaining all of the background lore"]
