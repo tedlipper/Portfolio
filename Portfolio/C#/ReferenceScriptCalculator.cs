@@ -6,8 +6,10 @@ namespace BetterCalculator
     {
         static void Main(string[] args)
         {
+            //Setting up the for loop so the code can be run repeatedly
             for (int x = 0; x > -1; x++) 
             {
+                //Checking if the code has run more than once
                 if (x > 0)
                 {
                     Console.WriteLine("");
